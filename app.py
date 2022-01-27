@@ -20,7 +20,7 @@ for domain in domains:
 
     print(denylist.blockdomain(domain.strip(), nextdns_confid, header))
     sys.stdout.flush()
-    time.sleep(0.75)
+    time.sleep(1)
 
 #Close file 
 blacklistfile.close()

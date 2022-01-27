@@ -1624,7 +1624,6 @@ r1---sn--h0jeenl7.googlevideo.com
 r1---sn--h2uht5o-otue.googlevideo.com
 r1---sn--h5576n7k.googlevideo.com
 r1---sn--h5576n7r.googlevideo.com
-r1---sn--h557snl6.googlevideo
 r1---sn--h557snl6.googlevideo.com
 r1---sn--h557snlz.googlevideo.com
 r1---sn--h557sns7.googlevideo.com
@@ -17505,7 +17504,6 @@ r10---sn--h0jeenl7.googlevideo.com
 r10---sn--h2uht5o-otue.googlevideo.com
 r10---sn--h5576n7k.googlevideo.com
 r10---sn--h5576n7r.googlevideo.com
-r10---sn--h557snl6.googlevideo
 r10---sn--h557snl6.googlevideo.com
 r10---sn--h557snlz.googlevideo.com
 r10---sn--h557sns7.googlevideo.com
@@ -20402,7 +20400,6 @@ r11---sn--h0jeenl7.googlevideo.com
 r11---sn--h2uht5o-otue.googlevideo.com
 r11---sn--h5576n7k.googlevideo.com
 r11---sn--h5576n7r.googlevideo.com
-r11---sn--h557snl6.googlevideo
 r11---sn--h557snl6.googlevideo.com
 r11---sn--h557snlz.googlevideo.com
 r11---sn--h557sns7.googlevideo.com
@@ -23299,7 +23296,6 @@ r12---sn--h0jeenl7.googlevideo.com
 r12---sn--h2uht5o-otue.googlevideo.com
 r12---sn--h5576n7k.googlevideo.com
 r12---sn--h5576n7r.googlevideo.com
-r12---sn--h557snl6.googlevideo
 r12---sn--h557snl6.googlevideo.com
 r12---sn--h557snlz.googlevideo.com
 r12---sn--h557sns7.googlevideo.com
@@ -26193,7 +26189,6 @@ r13---sn--h0jeenl7.googlevideo.com
 r13---sn--h2uht5o-otue.googlevideo.com
 r13---sn--h5576n7k.googlevideo.com
 r13---sn--h5576n7r.googlevideo.com
-r13---sn--h557snl6.googlevideo
 r13---sn--h557snl6.googlevideo.com
 r13---sn--h557snlz.googlevideo.com
 r13---sn--h557sns7.googlevideo.com
@@ -29090,7 +29085,6 @@ r14---sn--h0jeenl7.googlevideo.com
 r14---sn--h2uht5o-otue.googlevideo.com
 r14---sn--h5576n7k.googlevideo.com
 r14---sn--h5576n7r.googlevideo.com
-r14---sn--h557snl6.googlevideo
 r14---sn--h557snl6.googlevideo.com
 r14---sn--h557snlz.googlevideo.com
 r14---sn--h557sns7.googlevideo.com
@@ -31987,7 +31981,6 @@ r15---sn--h0jeenl7.googlevideo.com
 r15---sn--h2uht5o-otue.googlevideo.com
 r15---sn--h5576n7k.googlevideo.com
 r15---sn--h5576n7r.googlevideo.com
-r15---sn--h557snl6.googlevideo
 r15---sn--h557snl6.googlevideo.com
 r15---sn--h557snlz.googlevideo.com
 r15---sn--h557sns7.googlevideo.com
@@ -34884,7 +34877,6 @@ r16---sn--h0jeenl7.googlevideo.com
 r16---sn--h2uht5o-otue.googlevideo.com
 r16---sn--h5576n7k.googlevideo.com
 r16---sn--h5576n7r.googlevideo.com
-r16---sn--h557snl6.googlevideo
 r16---sn--h557snl6.googlevideo.com
 r16---sn--h557snlz.googlevideo.com
 r16---sn--h557sns7.googlevideo.com
@@ -37780,7 +37772,6 @@ r17---sn--h0jeenl7.googlevideo.com
 r17---sn--h2uht5o-otue.googlevideo.com
 r17---sn--h5576n7k.googlevideo.com
 r17---sn--h5576n7r.googlevideo.com
-r17---sn--h557snl6.googlevideo
 r17---sn--h557snl6.googlevideo.com
 r17---sn--h557snlz.googlevideo.com
 r17---sn--h557sns7.googlevideo.com
@@ -40674,7 +40665,6 @@ r18---sn--h0jeenl7.googlevideo.com
 r18---sn--h2uht5o-otue.googlevideo.com
 r18---sn--h5576n7k.googlevideo.com
 r18---sn--h5576n7r.googlevideo.com
-r18---sn--h557snl6.googlevideo
 r18---sn--h557snl6.googlevideo.com
 r18---sn--h557snlz.googlevideo.com
 r18---sn--h557sns7.googlevideo.com
@@ -43567,7 +43557,6 @@ r19---sn--h0jeenl7.googlevideo.com
 r19---sn--h2uht5o-otue.googlevideo.com
 r19---sn--h5576n7k.googlevideo.com
 r19---sn--h5576n7r.googlevideo.com
-r19---sn--h557snl6.googlevideo
 r19---sn--h557snl6.googlevideo.com
 r19---sn--h557snlz.googlevideo.com
 r19---sn--h557sns7.googlevideo.com
@@ -46777,7 +46766,6 @@ r2---sn--h0jeenl7.googlevideo.com
 r2---sn--h2uht5o-otue.googlevideo.com
 r2---sn--h5576n7k.googlevideo.com
 r2---sn--h5576n7r.googlevideo.com
-r2---sn--h557snl6.googlevideo
 r2---sn--h557snl6.googlevideo.com
 r2---sn--h557snlz.googlevideo.com
 r2---sn--h557sns7.googlevideo.com
@@ -51856,7 +51844,6 @@ r20---sn--h0jeenl7.googlevideo.com
 r20---sn--h2uht5o-otue.googlevideo.com
 r20---sn--h5576n7k.googlevideo.com
 r20---sn--h5576n7r.googlevideo.com
-r20---sn--h557snl6.googlevideo
 r20---sn--h557snl6.googlevideo.com
 r20---sn--h557snlz.googlevideo.com
 r20---sn--h557sns7.googlevideo.com
@@ -65193,7 +65180,6 @@ r3---sn--h0jeenl7.googlevideo.com
 r3---sn--h2uht5o-otue.googlevideo.com
 r3---sn--h5576n7k.googlevideo.com
 r3---sn--h5576n7r.googlevideo.com
-r3---sn--h557snl6.googlevideo
 r3---sn--h557snl6.googlevideo.com
 r3---sn--h557snlz.googlevideo.com
 r3---sn--h557sns7.googlevideo.com
@@ -79351,7 +79337,6 @@ r4---sn--h0jeenl7.googlevideo.com
 r4---sn--h2uht5o-otue.googlevideo.com
 r4---sn--h5576n7k.googlevideo.com
 r4---sn--h5576n7r.googlevideo.com
-r4---sn--h557snl6.googlevideo
 r4---sn--h557snl6.googlevideo.com
 r4---sn--h557snlz.googlevideo.com
 r4---sn--h557sns7.googlevideo.com
@@ -93517,7 +93502,6 @@ r5---sn--h0jeenl7.googlevideo.com
 r5---sn--h2uht5o-otue.googlevideo.com
 r5---sn--h5576n7k.googlevideo.com
 r5---sn--h5576n7r.googlevideo.com
-r5---sn--h557snl6.googlevideo
 r5---sn--h557snl6.googlevideo.com
 r5---sn--h557snlz.googlevideo.com
 r5---sn--h557sns7.googlevideo.com
@@ -97609,7 +97593,6 @@ r6---sn--h0jeenl7.googlevideo.com
 r6---sn--h2uht5o-otue.googlevideo.com
 r6---sn--h5576n7k.googlevideo.com
 r6---sn--h5576n7r.googlevideo.com
-r6---sn--h557snl6.googlevideo
 r6---sn--h557snl6.googlevideo.com
 r6---sn--h557snlz.googlevideo.com
 r6---sn--h557sns7.googlevideo.com
@@ -100519,7 +100502,6 @@ r7---sn--h0jeenl7.googlevideo.com
 r7---sn--h2uht5o-otue.googlevideo.com
 r7---sn--h5576n7k.googlevideo.com
 r7---sn--h5576n7r.googlevideo.com
-r7---sn--h557snl6.googlevideo
 r7---sn--h557snl6.googlevideo.com
 r7---sn--h557snlz.googlevideo.com
 r7---sn--h557sns7.googlevideo.com
@@ -103420,7 +103402,6 @@ r8---sn--h0jeenl7.googlevideo.com
 r8---sn--h2uht5o-otue.googlevideo.com
 r8---sn--h5576n7k.googlevideo.com
 r8---sn--h5576n7r.googlevideo.com
-r8---sn--h557snl6.googlevideo
 r8---sn--h557snl6.googlevideo.com
 r8---sn--h557snlz.googlevideo.com
 r8---sn--h557sns7.googlevideo.com
@@ -106322,7 +106303,6 @@ r9---sn--h0jeenl7.googlevideo.com
 r9---sn--h2uht5o-otue.googlevideo.com
 r9---sn--h5576n7k.googlevideo.com
 r9---sn--h5576n7r.googlevideo.com
-r9---sn--h557snl6.googlevideo
 r9---sn--h557snl6.googlevideo.com
 r9---sn--h557snlz.googlevideo.com
 r9---sn--h557sns7.googlevideo.com
@@ -109066,8 +109046,6 @@ ssl.google-analytics.com
 static.doubleclick.net
 stats.g.doubleclick.net
 tpc.googlesyndication.com
-watchdog.goodbyeads
-watchdog.goodbyeads.youtube
 www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 www.analytic-google.com
