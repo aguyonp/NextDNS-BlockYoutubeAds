@@ -1,0 +1,9 @@
+version: "3.5"
+
+services:
+  nextdns:
+    build: .
+    environment:
+      - NEXTDNS_USERNAME=f.guyonantoine@gmail.com
+      - NEXTDNS_PASSWORD=vdL5CFJGabvZxYnFGH83
+      - NEXTDNS_CONFID=975ecb
