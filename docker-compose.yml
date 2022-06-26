@@ -4,6 +4,6 @@ services:
   nextdns:
     build: .
     environment:
-      - NEXTDNS_USERNAME=f.guyonantoine@gmail.com
-      - NEXTDNS_PASSWORD=vdL5CFJGabvZxYnFGH83
-      - NEXTDNS_CONFID=975ecb
+      - NEXTDNS_USERNAME=youremail
+      - NEXTDNS_PASSWORD=yourpassword
+      - NEXTDNS_CONFID=yourconfigid
